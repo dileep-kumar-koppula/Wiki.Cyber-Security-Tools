@@ -1,6 +1,3 @@
-Presented by [INFILTRIC](https://infiltric.com)
-___
-
 # Anonymity
 
 + ### MAC Address
